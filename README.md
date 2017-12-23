@@ -5,4 +5,7 @@ Web document classification is the primary requirement for search engines, which
 
 Once the model is ready, we can subject the test documents for evaluation through that model and that brings the classification process to an end. we proposed an approach for automatically classifying web documents into a set of categories using Fuzzy Feature Category Similarity Analyzer (FFCSA)  and vector space model (VSM). In our approach, we have given a set of example documents. We pre-process the documents by parsing and removing the stop words, doing stemming  and extracted noun as keywords. The new documents are classified by applying vector space model technique on these derived feature sets.
 
+## Results
+The number of documents on the Y-Axis are scaled down by a factor of 100. Me and my team collected approximately 800 documents to test our augmentation of the model over the traditional TF-IDF based classification approach.
+
 ![Results](https://github.com/abhishekpandey532/Fuzzy-using-NLP-Classification/blob/master/Results.png "Results")
