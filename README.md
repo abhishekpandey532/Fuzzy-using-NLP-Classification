@@ -8,4 +8,4 @@ Once the model is ready, we can subject the test documents for evaluation throug
 ## Results
 The number of documents on the Y-Axis are scaled down by a factor of 10. Me and my team collected approximately 800 documents to test our augmentation of the model over the traditional TF-IDF based classification approach.
 
-![Results](https://github.com/abhishekpandey532/Fuzzy-using-NLP-Classification/blob/master/Comparasion_Chart.jpg "Results")
+![Results](https://github.com/abhishekpandey532/Fuzzy-using-NLP-Classification/blob/master/Comparision_Chart.jpg "Results")
